@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/asmaghanmi1/asmaghanmi1/main/assets/coding.png" alt="Coding Image" width="250" />
+<img align="right" src="[https://raw.githubusercontent.com/asmaghanmi1/asmaghanmi1/main/assets/coding.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F604045368807022702%2F&psig=AOvVaw1DvZIW52JNsAjA5PqaBKl_&ust=1766434754097000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIinmrXAz5EDFQAAAAAdAAAAABAL)" alt="Coding Image" width="250" />
 
 ## 🌱 About Me
 
