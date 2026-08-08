@@ -1,24 +1,25 @@
-# Hi, I'm Asma Ghanmi 👋
+# 👋 Hi, I'm Asma Ghanmi
 
-### 🎓 Computer Engineering Student | Cloud Computing & Virtualization
-### ☁️ Aspiring Cloud & DevOps Engineer
-
-I'm a Computer Engineering student specializing in **Cloud Computing & Virtualization**, with an initial background in **Industrial Maintenance Engineering**.
-
-My academic journey combines **industrial systems, software engineering, cloud infrastructure, and DevOps**, with a strong interest in building reliable and scalable digital solutions.
+🎓 Computer Engineering Student — *Cloud Computing & Virtualization*  
+☁️ Aspiring Cloud & DevOps Engineer  
+📍 Tunisia  
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Computer Engineering Student — **Cloud Computing & Virtualization**
-- 🔧 Bachelor's Degree in **Mechanical Engineering — Industrial Maintenance**
-- ☁️ Interested in **Cloud Computing, DevOps & Infrastructure**
-- 💻 Full-Stack development experience with **MERN**
-- 🏭 Interested in **Industrial IT, Industry 4.0 & Digital Transformation**
-- 🚀 Currently strengthening my skills in **Linux, Docker, Kubernetes, CI/CD & Cloud**
-- 🌍 Open to **international PFE / internship opportunities in Cloud & DevOps**
-- 📍 Tunisia
+I am a Computer Engineering student specializing in **Cloud Computing & Virtualization**, with a strong academic foundation in **Industrial Maintenance Engineering**.
+
+My profile combines:
+
+- 🏭 Industrial systems & maintenance engineering  
+- 💻 Software development (Full-Stack MERN)  
+- ☁️ Cloud infrastructure & virtualization  
+- ⚙️ DevOps practices & automation  
+
+I am passionate about building **scalable, reliable, and automated systems** that bridge Industry 4.0 and Cloud technologies.
+
+🌍 Open to **international PFE / internship opportunities in Cloud & DevOps**
 
 ---
 
@@ -31,7 +32,9 @@ My academic journey combines **industrial systems, software engineering, cloud i
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
 
 ### 💻 Programming & Development
 
@@ -41,63 +44,55 @@ My academic journey combines **industrial systems, software engineering, cloud i
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
+---
+
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
 
 ### 🔧 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🏭 Featured Project
 
-### 🏭 COFAT Smart Maintenance — GMAO
+### COFAT Smart Maintenance — CMMS (GMAO)
 
-A web-based **Computerized Maintenance Management System (CMMS/GMAO)** designed for industrial maintenance management.
+A web-based **Computerized Maintenance Management System** designed to digitize and optimize industrial maintenance operations.
 
-**Main features:**
-- 📊 Maintenance dashboards & KPIs
-- 🔧 Work order management
-- 📈 Maintenance reports
-- 📁 Excel data import
-- 👥 Role-based access control
-- 🔔 Notifications
-- 📋 Maintenance history
-- 📊 MTBF / MTTR / Availability indicators
+### 🔹 Key Features
 
-**Tech Stack:**
+- 📊 Maintenance dashboards & KPIs  
+- 🔧 Work order management  
+- 📈 Reports & analytics  
+- 📁 Excel data import  
+- 👥 Role-based access control (RBAC)  
+- 🔔 Notifications  
+- 📋 Maintenance history tracking  
+- 📊 MTBF / MTTR / Availability calculation  
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
+### 🔹 Tech Stack
 
-**Future DevOps/Cloud evolution:**
+`React` • `Node.js` • `Express` • `MongoDB` • `JWT` • `Tailwind CSS`
 
-`Docker` → `CI/CD` → `Cloud Deployment` → `Monitoring`
+### 🔹 Next Evolution (Cloud & DevOps Roadmap)
 
----
-
-### ☁️ Cloud & DevOps Projects
-
-I'm currently building projects focused on:
-
-- Linux administration
-- Docker containerization
-- Kubernetes orchestration
-- Infrastructure as Code
-- Terraform
-- Ansible
-- CI/CD pipelines
-- Cloud deployment
-- Monitoring & observability
+- ✅ Docker containerization  
+- 🔄 CI/CD pipeline implementation  
+- ☁️ Cloud deployment (AWS / Azure / GCP)  
+- 📊 Monitoring & observability integration  
 
 ---
 
-## 📚 Currently Learning
+## ☁️ Cloud & DevOps Learning Roadmap
 
 ```text
 Linux
