@@ -176,33 +176,6 @@ Infrastructure
 
 ---
 
-# 📂 Selected Projects
-
-## 💻 COFAT Smart Maintenance
-
-**Industrial Maintenance Management Platform · CMMS / GMAO**
-
-A full-stack web application designed to digitize maintenance operations and centralize maintenance data, reporting and KPIs.
-
-**Technologies:**
-
-`React` · `Node.js` · `Express.js` · `MongoDB` · `JWT`
-
-🔗 **Repository:** [View Project](#)
-
----
-
-## ☁️ Cloud & DevOps Projects
-
-**Currently building practical projects around Cloud and DevOps technologies.**
-
-Focus areas:
-
-`Docker` · `CI/CD` · `AWS` · `Terraform` · `Kubernetes`
-
-Projects will progressively demonstrate the transition from **application development to cloud deployment and infrastructure automation**.
-
----
 
 # 📚 Current Learning
 
