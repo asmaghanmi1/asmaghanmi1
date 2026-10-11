@@ -1,119 +1,120 @@
 
-<h1 align="center">Asma Ghanmi</h1>
+<div align="center">
 
-<h3 align="center">
-  Computer Engineering Student
-</h3>
+# ASMA GHANMI
 
-<p align="center">
-  <strong>Cloud & DevOps · Software Development · AI</strong>
-</p>
+### Computer Engineering Student
+**Cloud & DevOps · Software Engineering · AI**
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+reliable+software+solutions;Exploring+Cloud+%26+DevOps;Developing+REST+APIs+%26+Backend+Systems;Learning+AI+%26+Intelligent+Applications" alt="Typing introduction" />
+
+<p>
   <a href="https://github.com/asmaghanmi1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/asma-ghanmi-353992269/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
   </a>
+</p>
+
+</div>
+
+---
+
+## `01` — WHO I AM
+
+I'm a computer engineering student at **iTeam University, Tunisia**, specializing in Cloud Computing & Virtualization.
+
+My background combines software development and industrial maintenance. I'm interested in designing useful applications, building backend systems, automating deployments, and exploring cloud technologies and AI.
+
+- **Focus:** Cloud, DevOps, Backend & Software Engineering
+- **Education:** Computer Engineering
+- **Location:** Tunisia
+- **Availability:** 6-month PFE internship starting March 2027
+
+---
+
+## `02` — TECHNOLOGY UNIVERSE
+
+### SOFTWARE ENGINEERING
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,html,css" />
+</p>
+
+### DATABASES & API DEVELOPMENT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,postman" />
+</p>
+
+### CLOUD & DEVOPS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,terraform,kubernetes" />
 </p>
 
 ---
 
-<h2>01. About Me</h2>
-
-<p>
-  I'm a computer engineering student at <strong>iTeam University, Tunisia</strong>,
-  specializing in Cloud Computing &amp; Virtualization.
-</p>
-
-<p>
-  With a background in software development and industrial maintenance,
-  I am interested in building reliable applications, automating workflows,
-  and exploring modern cloud technologies.
-</p>
+## `03` — WHAT I'M INTERESTED IN
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>Cloud &amp; DevOps</h3>
-      <p>Cloud infrastructure, containers, CI/CD and deployment automation.</p>
-    </td>
-    <td width="50%">
-      <h3>Software Engineering</h3>
-      <p>Backend development, REST APIs, databases and application design.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>AI &amp; Automation</h3>
-      <p>Exploring AI-powered applications and intelligent software solutions.</p>
-    </td>
-    <td width="50%">
-      <h3>Industrial Digitalization</h3>
-      <p>Connecting software solutions with real operational needs.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+Containerization, CI/CD pipelines, cloud infrastructure, deployment automation and virtualization.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering
+
+Backend development, REST APIs, database design, maintainable code and application architecture.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+AI-powered applications, intelligent systems and practical integration of AI into software.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Digital Transformation
+
+Software solutions that improve industrial processes, maintenance workflows and operational visibility.
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h2>02. Technical Stack</h2>
+## `04` — CURRENT OBJECTIVE
 
-<p><strong>Programming &amp; Backend</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,js,nodejs,express" alt="Python, Flask, JavaScript, Node.js and Express">
-</p>
+I'm looking for a **6-month end-of-studies internship starting in March 2027**, with opportunities in:
 
-<p><strong>Frontend &amp; Databases</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,postgres,mongodb" alt="React, HTML, CSS, PostgreSQL and MongoDB">
-</p>
+`Cloud Engineering` · `DevOps` · `Backend Development` · `Software Engineering` · `AI`
 
-<p><strong>Cloud &amp; DevOps</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,terraform,kubernetes" alt="Docker, GitHub Actions, Git, Linux, AWS, Terraform and Kubernetes">
-</p>
+My goal is to keep learning through hands-on engineering, build reliable solutions, and grow into a well-rounded software and cloud engineer.
 
 ---
 
-<h2>03. Professional Objective</h2>
+<div align="center">
 
-<p>
-  <strong>Seeking a 6-month end-of-studies internship (PFE) starting in March 2027.</strong>
-</p>
+### LET'S CONNECT
 
-<p>
-  Interested in opportunities in Cloud Engineering, DevOps, Backend Development,
-  Software Engineering and AI-related development.
-</p>
+<a href="https://github.com/asmaghanmi1">GITHUB</a>
+&nbsp; // &nbsp;
+<a href="https://www.linkedin.com/in/asma-ghanmi-353992269/">LINKEDIN</a>
 
----
+<br/>
 
-<h2>04. My Approach</h2>
+<sub>LEARN · BUILD · AUTOMATE · IMPROVE</sub>
 
-<p align="center">
-  <strong>BUILD</strong> &nbsp; / &nbsp;
-  <strong>TEST</strong> &nbsp; / &nbsp;
-  <strong>AUTOMATE</strong> &nbsp; / &nbsp;
-  <strong>IMPROVE</strong>
-</p>
-
-<p align="center">
-  I believe in continuous learning, clean code, practical experimentation,
-  and building software that solves real problems.
-</p>
-
----
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <a href="https://github.com/asmaghanmi1">GitHub Profile</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/asma-ghanmi-353992269/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <sub>Cloud · Code · Automation · Continuous Learning</sub>
-</p>
+</div>
