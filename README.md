@@ -1,102 +1,119 @@
-# Asma Ghanmi | Cloud & DevOps
+
+<h1 align="center">Asma Ghanmi</h1>
+
+<h3 align="center">
+  Computer Engineering Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Cloud+%26+DevOps+Enthusiast;Backend+%26+REST+API+Development" alt="Professional introduction" />
+  <strong>Cloud & DevOps · Software Development · AI</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/asmaghanmi1">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/asma-ghanmi-353992269/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-2563EB?style=flat-square" alt="Cloud and DevOps" />
 </p>
 
 ---
 
-## About Me
+<h2>01. About Me</h2>
 
-Computer engineering student at **iTeam University, Tunisia**, specializing in Cloud Computing & Virtualization.
+<p>
+  I'm a computer engineering student at <strong>iTeam University, Tunisia</strong>,
+  specializing in Cloud Computing &amp; Virtualization.
+</p>
 
-My background combines software development and industrial maintenance, with an interest in building reliable applications, automating workflows, and exploring cloud infrastructure.
+<p>
+  With a background in software development and industrial maintenance,
+  I am interested in building reliable applications, automating workflows,
+  and exploring modern cloud technologies.
+</p>
 
-* **Current focus:** Cloud, DevOps, Infrastructure & Backend Development
-* **Looking for:** A 6-month end-of-studies internship (PFE) starting in March 2027
-* **Interested in:** Containerization, CI/CD, REST APIs and cloud deployment
-* **Approach:** Learn by building, testing, documenting and improving real projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Cloud &amp; DevOps</h3>
+      <p>Cloud infrastructure, containers, CI/CD and deployment automation.</p>
+    </td>
+    <td width="50%">
+      <h3>Software Engineering</h3>
+      <p>Backend development, REST APIs, databases and application design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI &amp; Automation</h3>
+      <p>Exploring AI-powered applications and intelligent software solutions.</p>
+    </td>
+    <td width="50%">
+      <h3>Industrial Digitalization</h3>
+      <p>Connecting software solutions with real operational needs.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Technical Skills
+<h2>02. Technical Stack</h2>
+
+<p><strong>Programming &amp; Backend</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,js,nodejs,express" alt="Python, Flask, JavaScript, Node.js and Express">
+</p>
+
+<p><strong>Frontend &amp; Databases</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,postgres,mongodb" alt="React, HTML, CSS, PostgreSQL and MongoDB">
+</p>
+
+<p><strong>Cloud &amp; DevOps</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,terraform,kubernetes" alt="Docker, GitHub Actions, Git, Linux, AWS, Terraform and Kubernetes">
+</p>
+
+---
+
+<h2>03. Professional Objective</h2>
+
+<p>
+  <strong>Seeking a 6-month end-of-studies internship (PFE) starting in March 2027.</strong>
+</p>
+
+<p>
+  Interested in opportunities in Cloud Engineering, DevOps, Backend Development,
+  Software Engineering and AI-related development.
+</p>
+
+---
+
+<h2>04. My Approach</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,nodejs,express,react,postgres,mongodb" alt="Programming and development technologies" />
+  <strong>BUILD</strong> &nbsp; / &nbsp;
+  <strong>TEST</strong> &nbsp; / &nbsp;
+  <strong>AUTOMATE</strong> &nbsp; / &nbsp;
+  <strong>IMPROVE</strong>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,aws,terraform,kubernetes" alt="Cloud and DevOps technologies" />
+  I believe in continuous learning, clean code, practical experimentation,
+  and building software that solves real problems.
 </p>
 
-| Area                   | Technologies                            |
-| ---------------------- | --------------------------------------- |
-| Programming            | Python, JavaScript, SQL                 |
-| Backend                | Flask, Node.js, Express.js, REST APIs   |
-| Frontend               | React, HTML, CSS                        |
-| Databases              | PostgreSQL, MongoDB                     |
-| DevOps                 | Git, GitHub Actions, Docker             |
-| Cloud & Infrastructure | AWS fundamentals, Linux, virtualization |
-
 ---
 
-## Featured Projects
-
-### 01 — Python REST API & DevOps
-
-**Repository:** [python-rest-api-devops](https://github.com/asmaghanmi1/python-rest-api-devops)
-
-A Python REST API project focused on backend development and learning DevOps practices.
-
-* REST endpoints and database integration
-* Docker-based application packaging
-* Automated testing and CI/CD as development goals
-* Clear setup instructions and API documentation
-
-**Technologies:** Python · Flask · MongoDB · Docker · GitHub Actions
-
-### 02 — Smart Maintenance Application
-
-An industrial maintenance application designed to improve intervention tracking, maintenance indicators and reporting.
-
-**Technologies:** React · Node.js · REST APIs · PostgreSQL
-
-### 03 — Industrial Maintenance Management System
-
-A software project focused on maintenance operations, equipment tracking and spare-parts management.
-
-**Focus:** Process digitalization · Data management · Reporting
-
----
-
-## Currently Learning & Improving
-
-* Designing maintainable REST APIs
-* Building and testing Docker images
-* Automating quality checks with GitHub Actions
-* Practicing cloud deployment and infrastructure automation
-* Improving technical documentation and software reliability
-
----
-
-## Let's Connect
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/asmaghanmi1">GitHub</a>
-  &nbsp; • &nbsp;
+  <a href="https://github.com/asmaghanmi1">GitHub Profile</a>
+  &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/asma-ghanmi-353992269/">LinkedIn</a>
 </p>
 
 <p align="center">
-  <sub>Building practical projects and growing in Cloud & DevOps.</sub>
+  <sub>Cloud · Code · Automation · Continuous Learning</sub>
 </p>
