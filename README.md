@@ -30,7 +30,7 @@ My background combines software development and industrial maintenance. I'm inte
 - **Focus:** Cloud, DevOps, Backend & Software Engineering
 - **Education:** Computer Engineering
 - **Location:** Tunisia
-- **Availability:** 6-month PFE internship starting March 2027
+- **Availability:** 6-month PFE internship starting February 2027
 
 ---
 
